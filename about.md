@@ -3,6 +3,6 @@ layout: about
 title: About
 ---
 
-## About
+## Welcome
 
-Hi, nice to meet you.
+
